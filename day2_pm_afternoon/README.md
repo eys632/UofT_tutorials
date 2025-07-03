@@ -3,7 +3,7 @@
 **Topic: Supervised Learning**
 
 ## Lecture
-1. k-NN, Decision Trees
+1. KNN, Decision Trees
 
 ## Lab (up to 2 hours)
 1. KNN
