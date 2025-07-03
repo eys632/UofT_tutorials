@@ -1,10 +1,12 @@
 # Session D1-A
 
+**Topic: Data Preprocessing and Evaluation**
+
 ## Lecture
-1. Data preprocessing & EDA with a case study
-2. Performance evaluation
+1. Data Preprocessing & Case Study
+2. Performance Evaluation
 
 ## Lab (up to 2 hours)
-1. Data prep: scaling, normalization, imputation
-2. Feature selection
-3. Model evaluation: classification, regression
+1. Data Prep: Scaling, Normalization, Imputation
+2. Feature Selection
+3. Model Evaluation: Classification, Regression

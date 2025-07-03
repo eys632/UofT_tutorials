@@ -1,7 +1,9 @@
 # Session D9-A
 
+**Topic: Model-Based Reinforcement Learning**
+
 ## Lecture
-1. Model-based RL, MARL
+1. Feature Mapping, Deep Learning, Policy Gradient
 
 ## Lab (up to 2 hours)
-1. Dyna-Q, MARL
+1. DQN, Double DQN, Cart-Pole, Policy Optimization (REINFORCE)

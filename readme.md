@@ -1,41 +1,24 @@
-# ML Bootcamp Summer 2024
+# ML Bootcamp Summer 2025
 
-| Session | Lecture                          | Lab (up to 2 hours)                   | TA    |
-| ------- | -------------------------------- | ------------------------------------- | ----- |
-| D1-M    | 1. Introduction to AI and ML     | 1. Colab setup                        | Ramy |
-|         | 2. Steps in ML project           | 2. Python refresh                     |       |
-|         |                                  | 3. Visualization: t-SNE              |       |
-| D1-A    | 1. Data preprocessing & EDA      | 1. Data prep: scaling, normalization, imputation | Ramy |
-|         | 2. Performance evaluation        | 2. Feature selection                  |       |
-|         |                                  | 3. Model evaluation: classification, regression |       |
-| D2-M    | 1. Model training                | 1. Model tune up                      | Ramy |
-|         |                                  | 2. Bagging and Boosting               |       |
-|         |                                  | 3. Supply chain example               |       |
-| D2-A    | 1. Supervised learning           | 1. kNN                                | Ramy  |
-|         |                                  | 2. Decision Trees                     |       |
-| D3-M    | 1. Supervised learning           | 1. Linear Regression                  | Ramy |
-|         |                                  | 2. Logistic Regression                |       |
-|         |                                  | 3. SVM                                |       |
-| D3-A    | 1. Supervised learning           | 1. Naive Bayes                        | Ramy  |
-|         |                                  | 2. Random Forests                      |       |
-| D4-M    | 1. Deep learning                 | 1. Deep learning                      | Jerry |
-| D4-A    | 1. Deep learning                 | 1. Deep learning                      | Jerry  |
-| D5-M    | 1. Deep learning                 | 1. Deep learning                      | Jerry |
-| D5-A    | Evaluation                       |                                        | Jerry  |
-| D6-M    | 1. Unsupervised learning         | 1. PCA                                | Ernesto  |
-|         |                                  | 2. K-mean and cluster # optimization (elbow method) |       |
-| D6-A    | 1. Unsupervised learning         | 1. Hierarchical clustering            | Ernesto  |
-|         |                                  | 2. Soft-clustering (expectation maximization) |       |
-| D7-M    | 1. Markov decision process       | 1. Standard methods for MDP such as PI and VI | Koorosh |
-|         |                                  | • Formulation: transition probabilities, reward, … |       |
-|         |                                  | • Policy evaluation                   |       |
-| D7-A    | 1. MDP                          | 1. PI and VI                          | Koorosh |
-|         | 2. Monte Carlo method            | 2. Monte Carlo method                  |       |
-|         |                                  | • Return computation                  |       |
-|         |                                  | • Generalized Policy Iteration        |       |
-| D8-M    | 1. Tabular RL                   | 1. Tabular RL: Q-learning, SARSA       | Ernesto |
-| D8-A    | 1. Deep RL                      | 1. Deep RL: DQN and others            | Ernesto |
-| D9-M    | 1. Policy optimization           | 1. Policy optimization: REINFORCE, DPG, DDPG | Koorosh |
-| D9-A    | 1. Model-based RL, MARL          | 1. Dyna-Q, MARL                       | Koorosh |
-| D10-M   | 2. RL for Applications           | 1. DQN for optimal maintenance, Sim2Real for robotic control | Koorosh |
-| D10-A   | Evaluation                       |                                      | Ernesto |
+| Session | Lecture | Lab (up to 2 hours) | TA |
+| ------- | ------- | ------------------- | -- |
+| D1-M | Introduction to AI and ML | Colab Setup, Python Refresh, Visualization: t-SNE | Ramy |
+| D1-A | Data Preprocessing and Evaluation | Data Prep: Scaling, Normalization, Imputation, Feature Selection, Model Evaluation: Classification, Regression | Ramy |
+| D2-M | Exploratory Data Analysis and Model Training | Model Tune-Up, Bagging and Boosting, Supply Chain Example | Ernesto |
+| D2-A | KNN, Decision Trees | KNN, Decision Tree | Ernesto |
+| D3-M | Regression | Linear Regression, Logistic Regression, Support Vector Machine (SVM) | Ernesto |
+| D3-A | Naive Bayes and Random Forests | Naive Bayes, Random Forests | Jerry |
+| D4-M | Deep Learning | Multi-layer Perceptron (MLP) | Ramy |
+| D4-A | Deep Learning | Convolutional Neural Networks (CNN), Autoencoder, Recurrent Neural Networks (RNN) | Ramy |
+| D5-M | Deep Learning | Transformers | Ramy |
+| D5-A | Evaluation |  | Ramy |
+| D6-M | Deep Learning | LLMs | Jerry |
+| D6-A | Deep Learning | Graph Neural Networks (GNN), Application: Neural Combinatorial Optimization (NCO) | Jerry |
+| D7-M | Deep Learning | Agentic AI | Jerry |
+| D7-A | Unsupervised Learning | k-means/elbow method, Hierarchical Clustering, Soft Clustering | Jerry |
+| D8-M | Reinforcement Learning | FrozenLake Gym Env, Markov Decision Processes (MDP), PI/VI/Monte-Carlo | Koorosh |
+| D8-A | Reinforcement Learning | Tabular RL (Q-learning, SARSA, On/Off-Policy) | Koorosh |
+| D9-M | Company Visit | | Koorosh/Kaye |
+| D9-A | Reinforcement Learning | DQN, Double DQN, Cart-Pole, Policy Optimization (REINFORCE) | Koorosh |
+| D10-M | Reinforcement Learning | Dyna-Q | Koorosh |
+| D10-A | Evaluation |  | Koorosh |

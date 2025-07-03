@@ -1,7 +1,9 @@
 # Session D10-M
 
+**Topic: Reinforcement Learning**
+
 ## Lecture
-2. RL for Applications
+1. Model-Based RL, LLMs and RL
 
 ## Lab (up to 2 hours)
-1. DQN for optimal maintenance, Sim2Real for robotic control
+1. Dyna-Q

@@ -1,10 +1,11 @@
 # Session D2-A
 
+**Topic: Supervised Learning**
+
 ## Lecture
-1. Supervised learning
+1. k-NN, Decision Trees
 
 ## Lab (up to 2 hours)
-1. python and numpy syntaxes
-2. KNN
-3. decision tree
+1. KNN
+2. Decision Tree
    

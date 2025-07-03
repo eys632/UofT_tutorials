@@ -1,8 +1,9 @@
 # Session D6-M
 
+**Topic: Deep Learning**
+
 ## Lecture
-1. Unsupervised learning
+1. LLMs (ChatGPT, DeepSeek)
 
 ## Lab (up to 2 hours)
-1. PCA
-2. K-mean and cluster # optimization (elbow method)
+1. LLMs
