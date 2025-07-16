@@ -10,3 +10,7 @@
 1. Colab Setup
 2. Python Refresh
 3. Visualization: t-SNE
+
+## Please use the following Google Colab notebook version during the tutorial/lab:
+https://colab.research.google.com/drive/1mh91S0nftDAHILw1YhR80dmMVt0L4m5g?usp=sharing
+
