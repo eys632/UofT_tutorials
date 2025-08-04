@@ -22,3 +22,5 @@
 | D9-A | Reinforcement Learning | DQN, Double DQN, Cart-Pole, Policy Optimization (REINFORCE) | Koorosh |
 | D10-M | Reinforcement Learning | Dyna-Q | Koorosh |
 | D10-A | Evaluation |  | Koorosh |
+
+[Second Evaluation Link](https://docs.google.com/forms/d/e/1FAIpQLSc3vZ4yszKcNk6bEJaBcNkDJMyhWOAGuk_D6i6zbaV4ah9GCg/viewform?usp=dialog)
